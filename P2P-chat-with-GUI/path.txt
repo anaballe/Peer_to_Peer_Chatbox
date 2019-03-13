@@ -1,0 +1,1 @@
+export CLASSPATH=/root/Downloads/Chatbox//mysql-connector-java-8.0.15.jar:.
