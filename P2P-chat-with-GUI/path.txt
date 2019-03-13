@@ -1,1 +1,7 @@
 export CLASSPATH=/root/Downloads/Chatbox//mysql-connector-java-8.0.15.jar:.
+
+create a database by the name of messenger
+1) create database messenger ;
+2) use messenger;
+3)create table client1(message varchar(200));
+4)create table client2(message varchar(200));
